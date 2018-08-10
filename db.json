@@ -1,0 +1,108 @@
+{
+  "employee": [
+    {
+      "id": "0",
+      "first_name": "Aishani",
+      "last_name": "Sen",
+      "email": "aishani@gmail.com",
+      "department": "IT",
+      "salary": "50000"
+    },
+    {
+      "id": "1",
+      "first_name": "Soumya",
+      "last_name": "Sen",
+      "email": "sen_soumya@yahoo.com",
+      "department": "Baker",
+      "salary": "5000"
+    },
+    {
+      "id": "2",
+      "first_name": "Piyali",
+      "last_name": "Sen",
+      "email": "piyali_sen@yahoo.com",
+      "department": "Teacher",
+      "salary": "16000"
+    },
+    {
+      "id": "3",
+      "first_name": "Soumya",
+      "last_name": "Sengupta",
+      "email": "soumya_sengupta@gmail.com",
+      "department": "Marketing",
+      "salary": "26000"
+    },
+    {
+      "id": "4",
+      "first_name": "Soumita",
+      "last_name": "Sengupta",
+      "email": "soumita_sengupta@gmail.com",
+      "department": "Marketing",
+      "salary": "24000"
+    },
+    {
+      "id": "5",
+      "first_name": "Arin",
+      "last_name": "Banerjee",
+      "email": "arin_banerjee@gmail.com",
+      "department": "Marketing",
+      "salary": "28000"
+    },
+    {
+      "id": "6",
+      "first_name": "Madhu",
+      "last_name": "Bose",
+      "email": "madhu_basu@yahoo.com",
+      "department": "Business",
+      "salary": "28000"
+    },
+    {
+      "id": "7",
+      "first_name": "Ayan",
+      "last_name": "Das",
+      "email": "ayan_das@yahoo.com",
+      "department": "Technical",
+      "salary": "12000"
+    },
+    {
+      "id": "8",
+      "first_name": "Kuchum",
+      "last_name": "Sengupta",
+      "email": "kuchum_sengupta@gmail.com",
+      "department": "Marketing",
+      "salary": "18000"
+    },
+    {
+      "id": "9",
+      "first_name": "Debkumar",
+      "last_name": "Laha",
+      "email": "debkumar_laha@gmail.com",
+      "department": "Business",
+      "salary": "38000"
+    },
+    {
+      "id": "10",
+      "first_name": "Tamali",
+      "last_name": "Das",
+      "email": "tamali_das@gmail.com",
+      "department": "Teacher",
+      "salary": "8000"
+    },
+    {
+      "id": "11",
+      "first_name": "Sujoy",
+      "last_name": "Das",
+      "email": "sujoy_das@yahoo.com",
+      "department": "Business",
+      "salary": "40000"
+    },
+    {
+      "id": "12",
+      "first_name": "Bappa",
+      "last_name": "Das",
+      "email": "bappa_das@yahoo.com",
+      "department": "Marketing",
+      "salary": "15000"
+    }
+  ]
+}
