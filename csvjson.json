@@ -1,0 +1,40 @@
+{
+  "deals": [
+    {
+      "id": "1",
+      "user": "Niranjan",
+      "dealName": "aaa",
+      "organization": "TCS",
+      "source": "Advertisement",
+      "forecastDate": "2018-12-15",
+      "closingDate": "2018-12-18",
+      "value": "2300000",
+      "stage": "Qualification",
+      "description": "first data"
+    },
+    {
+      "id": "2",
+      "user": "Niranjan",
+      "dealName": "aab",
+      "organization": "HDFC",
+      "source": "Cold Call",
+      "forecastDate": "2018-12-14",
+      "closingDate": "2018-12-21",
+      "value": "30000",
+      "stage": "Negotiation",
+      "description": "2nd value"
+    },
+    {
+      "id": "3",
+      "user": "Soumya",
+      "dealName": "aac",
+      "organization": "Infosys",
+      "source": "Employee Referral",
+      "forecastDate": "2018-12-19",
+      "closingDate": "2018-12-21",
+      "value": "530000",
+      "stage": "Qualification",
+      "description": "3rd value"
+    }
+  ]
+}
